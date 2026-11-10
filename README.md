@@ -9,7 +9,7 @@ pré-requisitos
 - Git
 Como rodar o projeto localmente (Localhost)
 1. Clone o repositório:
-git clone [https://github.com/aurorapay/core-api.git](https://github.com/RafaelRufinDev/daconcepcaoaodia1dodev/)
+git clone https://github.com/RafaelRufinDev/daconcepcaoaodia1dodev/
 2. Acesse a pasta do projeto:
 cd core-api
 3. Configure as variáveis de ambiente:
