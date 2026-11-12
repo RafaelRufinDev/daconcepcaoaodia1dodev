@@ -1,0 +1,8 @@
+export enum PixTransferStatus {
+  CREATED = 'CREATED',
+  PENDING = 'PENDING',
+  PENDING_REVIEW = 'PENDING_REVIEW',
+  IN_DOUBT = 'IN_DOUBT',
+  SETTLED = 'SETTLED',
+  REJECTED = 'REJECTED',
+}
